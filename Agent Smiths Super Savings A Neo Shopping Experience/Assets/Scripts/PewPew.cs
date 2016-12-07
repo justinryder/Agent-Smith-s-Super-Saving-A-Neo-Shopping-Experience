@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using HTC.UnityPlugin.Vive;
 using UnityEngine;
 
 public class PewPew : MonoBehaviour
@@ -19,7 +20,13 @@ public class PewPew : MonoBehaviour
     
     void Update()
     {
-        if (Input.GetAxis(InputAxis) == 1)
+        var firing = false;
+        if (VR)
+            firing = ViveInput.GetPressDown(HandRole.RightHand, ControllerButton.Trigger);
+        else
+            firing = Input.GetMouseButtonDown(0);
+
+        if (firing)
         {
             Debug.Log("Firing");
             var hits = Physics.RaycastAll(transform.position, transform.forward);
