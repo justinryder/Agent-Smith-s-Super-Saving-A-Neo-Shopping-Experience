@@ -5,6 +5,10 @@ using UnityEngine;
 // http://answers.unity3d.com/questions/29741/mouse-look-script.html
 public class NoVrController : MonoBehaviour
 {
+    public float initHeight = 2;
+
+    public KeyCode stopFollowMouseKey = KeyCode.Z;
+
     public enum RotationAxes { MouseXAndY = 0, MouseX = 1, MouseY = 2 }
     public RotationAxes axes = RotationAxes.MouseXAndY;
     public float sensitivityX = 15F;
@@ -19,6 +23,11 @@ public class NoVrController : MonoBehaviour
 
     void Update()
     {
+        if (Input.GetKey(stopFollowMouseKey))
+        {
+            return;
+        }
+
         if (axes == RotationAxes.MouseXAndY)
         {
             // Read the mouse input axis
@@ -49,7 +58,11 @@ public class NoVrController : MonoBehaviour
     {
         enabled = !SteamVR.enabled;
         Debug.Log(string.Format("SteamVR {0}; NoVrController {1}", SteamVR.enabled ? "enabled" : "disabled", enabled ? "enabled" : "disabled"));
-        originalRotation = transform.localRotation;
+        if (enabled)
+        {
+            transform.Translate(Vector3.up * initHeight);
+            originalRotation = transform.localRotation;
+        }
     }
     public static float ClampAngle(float angle, float min, float max)
     {
