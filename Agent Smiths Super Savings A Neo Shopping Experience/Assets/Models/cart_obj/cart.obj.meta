@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: cbc5554cf1e39654ca789bce4378b565
+timeCreated: 1481126189
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cart_Base
+    100004: Cart_Basket
+    100006: Cart_Basket_MeshPart0
+    100008: Cart_Basket_MeshPart1
+    100010: Cart_Door
+    100012: Cart_HandleBar
+    100014: Cart_Handles
+    100016: Cart_Wheels_BackWheels_BackLeftWheel_Holding
+    100018: Cart_Wheels_BackWheels_BackLeftWheel_Hub
+    100020: Cart_Wheels_BackWheels_BackLeftWheel_Tyre
+    100022: Cart_Wheels_BackWheels_BackRightWheel_Holding2
+    100024: Cart_Wheels_BackWheels_BackRightWheel_Hub2
+    100026: Cart_Wheels_BackWheels_BackRightWheel_Tyre2
+    100028: Cart_Wheels_FrontWheels_FrontLeftWheel_Holding1
+    100030: Cart_Wheels_FrontWheels_FrontLeftWheel_Hub1
+    100032: Cart_Wheels_FrontWheels_FrontLeftWheel_Tyre1
+    100034: Cart_Wheels_FrontWheels_FrontRightWheel_Holding3
+    100036: Cart_Wheels_FrontWheels_FrontRightWheel_Hub3
+    100038: Cart_Wheels_FrontWheels_FrontRightWheel_Tyre3
+    400000: //RootNode
+    400002: Cart_Base
+    400004: Cart_Basket
+    400006: Cart_Basket_MeshPart0
+    400008: Cart_Basket_MeshPart1
+    400010: Cart_Door
+    400012: Cart_HandleBar
+    400014: Cart_Handles
+    400016: Cart_Wheels_BackWheels_BackLeftWheel_Holding
+    400018: Cart_Wheels_BackWheels_BackLeftWheel_Hub
+    400020: Cart_Wheels_BackWheels_BackLeftWheel_Tyre
+    400022: Cart_Wheels_BackWheels_BackRightWheel_Holding2
+    400024: Cart_Wheels_BackWheels_BackRightWheel_Hub2
+    400026: Cart_Wheels_BackWheels_BackRightWheel_Tyre2
+    400028: Cart_Wheels_FrontWheels_FrontLeftWheel_Holding1
+    400030: Cart_Wheels_FrontWheels_FrontLeftWheel_Hub1
+    400032: Cart_Wheels_FrontWheels_FrontLeftWheel_Tyre1
+    400034: Cart_Wheels_FrontWheels_FrontRightWheel_Holding3
+    400036: Cart_Wheels_FrontWheels_FrontRightWheel_Hub3
+    400038: Cart_Wheels_FrontWheels_FrontRightWheel_Tyre3
+    2300000: Cart_Base
+    2300002: Cart_Basket_MeshPart0
+    2300004: Cart_Basket_MeshPart1
+    2300006: Cart_Door
+    2300008: Cart_HandleBar
+    2300010: Cart_Handles
+    2300012: Cart_Wheels_BackWheels_BackLeftWheel_Holding
+    2300014: Cart_Wheels_BackWheels_BackLeftWheel_Hub
+    2300016: Cart_Wheels_BackWheels_BackLeftWheel_Tyre
+    2300018: Cart_Wheels_BackWheels_BackRightWheel_Holding2
+    2300020: Cart_Wheels_BackWheels_BackRightWheel_Hub2
+    2300022: Cart_Wheels_BackWheels_BackRightWheel_Tyre2
+    2300024: Cart_Wheels_FrontWheels_FrontLeftWheel_Holding1
+    2300026: Cart_Wheels_FrontWheels_FrontLeftWheel_Hub1
+    2300028: Cart_Wheels_FrontWheels_FrontLeftWheel_Tyre1
+    2300030: Cart_Wheels_FrontWheels_FrontRightWheel_Holding3
+    2300032: Cart_Wheels_FrontWheels_FrontRightWheel_Hub3
+    2300034: Cart_Wheels_FrontWheels_FrontRightWheel_Tyre3
+    3300000: Cart_Base
+    3300002: Cart_Basket_MeshPart0
+    3300004: Cart_Basket_MeshPart1
+    3300006: Cart_Door
+    3300008: Cart_HandleBar
+    3300010: Cart_Handles
+    3300012: Cart_Wheels_BackWheels_BackLeftWheel_Holding
+    3300014: Cart_Wheels_BackWheels_BackLeftWheel_Hub
+    3300016: Cart_Wheels_BackWheels_BackLeftWheel_Tyre
+    3300018: Cart_Wheels_BackWheels_BackRightWheel_Holding2
+    3300020: Cart_Wheels_BackWheels_BackRightWheel_Hub2
+    3300022: Cart_Wheels_BackWheels_BackRightWheel_Tyre2
+    3300024: Cart_Wheels_FrontWheels_FrontLeftWheel_Holding1
+    3300026: Cart_Wheels_FrontWheels_FrontLeftWheel_Hub1
+    3300028: Cart_Wheels_FrontWheels_FrontLeftWheel_Tyre1
+    3300030: Cart_Wheels_FrontWheels_FrontRightWheel_Holding3
+    3300032: Cart_Wheels_FrontWheels_FrontRightWheel_Hub3
+    3300034: Cart_Wheels_FrontWheels_FrontRightWheel_Tyre3
+    4300000: Cart_Base
+    4300002: Cart_Basket_MeshPart0
+    4300004: Cart_Basket_MeshPart1
+    4300006: Cart_Door
+    4300008: Cart_HandleBar
+    4300010: Cart_Handles
+    4300012: Cart_Wheels_BackWheels_BackLeftWheel_Holding
+    4300014: Cart_Wheels_BackWheels_BackLeftWheel_Hub
+    4300016: Cart_Wheels_BackWheels_BackLeftWheel_Tyre
+    4300018: Cart_Wheels_BackWheels_BackRightWheel_Holding2
+    4300020: Cart_Wheels_BackWheels_BackRightWheel_Hub2
+    4300022: Cart_Wheels_BackWheels_BackRightWheel_Tyre2
+    4300024: Cart_Wheels_FrontWheels_FrontLeftWheel_Holding1
+    4300026: Cart_Wheels_FrontWheels_FrontLeftWheel_Hub1
+    4300028: Cart_Wheels_FrontWheels_FrontLeftWheel_Tyre1
+    4300030: Cart_Wheels_FrontWheels_FrontRightWheel_Holding3
+    4300032: Cart_Wheels_FrontWheels_FrontRightWheel_Hub3
+    4300034: Cart_Wheels_FrontWheels_FrontRightWheel_Tyre3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

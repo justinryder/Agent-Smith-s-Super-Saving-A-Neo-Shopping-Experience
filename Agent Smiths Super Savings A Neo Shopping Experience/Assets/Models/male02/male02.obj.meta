@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: e00628adfd2eb724797facc4e1b61aa4
+timeCreated: 1481126190
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: mesh1.002_mesh1-geometry_FrontColorNoCullingID_orig_02_-_Defaul1noCu
+    100004: mesh1.002_mesh1-geometry_male-02-1noCullingID_male-02-1noCulling.JP
+    100006: mesh1.002_mesh1-geometry_orig_02_-_Defaul1noCu_orig_02_-_Defaul1noCu
+    100008: mesh10.002_mesh10-geometry_FrontColorNoCullingID_male-02-1noCulling.JP
+    100010: mesh10.002_mesh10-geometry_male-02-1noCullingID_male-02-1noCulling.JP
+    100012: mesh2.002_mesh2-geometry_male-02-1noCullingID_male-02-1noCulling.JP
+    100014: mesh3.002_mesh3-geometry_male-02-1noCullingID_male-02-1noCulling.JP
+    100016: mesh4.002_mesh4-geometry__01_-_Default1noCulli__01_-_Default1noCulli
+    100018: mesh5.002_mesh5-geometry__01_-_Default1noCulli__01_-_Default1noCulli
+    100020: mesh6.002_mesh6-geometry__01_-_Default1noCulli__01_-_Default1noCulli
+    100022: mesh7.002_mesh7-geometry__01_-_Default1noCulli__01_-_Default1noCulli
+    100024: mesh8.002_mesh8-geometry__01_-_Default1noCulli__01_-_Default1noCulli
+    100026: mesh9.002_mesh9-geometry_FrontColorNoCullingID_male-02-1noCulling.JP
+    100028: mesh9.002_mesh9-geometry_male-02-1noCullingID_male-02-1noCulling.JP
+    400000: //RootNode
+    400002: mesh1.002_mesh1-geometry_FrontColorNoCullingID_orig_02_-_Defaul1noCu
+    400004: mesh1.002_mesh1-geometry_male-02-1noCullingID_male-02-1noCulling.JP
+    400006: mesh1.002_mesh1-geometry_orig_02_-_Defaul1noCu_orig_02_-_Defaul1noCu
+    400008: mesh10.002_mesh10-geometry_FrontColorNoCullingID_male-02-1noCulling.JP
+    400010: mesh10.002_mesh10-geometry_male-02-1noCullingID_male-02-1noCulling.JP
+    400012: mesh2.002_mesh2-geometry_male-02-1noCullingID_male-02-1noCulling.JP
+    400014: mesh3.002_mesh3-geometry_male-02-1noCullingID_male-02-1noCulling.JP
+    400016: mesh4.002_mesh4-geometry__01_-_Default1noCulli__01_-_Default1noCulli
+    400018: mesh5.002_mesh5-geometry__01_-_Default1noCulli__01_-_Default1noCulli
+    400020: mesh6.002_mesh6-geometry__01_-_Default1noCulli__01_-_Default1noCulli
+    400022: mesh7.002_mesh7-geometry__01_-_Default1noCulli__01_-_Default1noCulli
+    400024: mesh8.002_mesh8-geometry__01_-_Default1noCulli__01_-_Default1noCulli
+    400026: mesh9.002_mesh9-geometry_FrontColorNoCullingID_male-02-1noCulling.JP
+    400028: mesh9.002_mesh9-geometry_male-02-1noCullingID_male-02-1noCulling.JP
+    2300000: mesh1.002_mesh1-geometry_FrontColorNoCullingID_orig_02_-_Defaul1noCu
+    2300002: mesh1.002_mesh1-geometry_male-02-1noCullingID_male-02-1noCulling.JP
+    2300004: mesh1.002_mesh1-geometry_orig_02_-_Defaul1noCu_orig_02_-_Defaul1noCu
+    2300006: mesh10.002_mesh10-geometry_FrontColorNoCullingID_male-02-1noCulling.JP
+    2300008: mesh10.002_mesh10-geometry_male-02-1noCullingID_male-02-1noCulling.JP
+    2300010: mesh2.002_mesh2-geometry_male-02-1noCullingID_male-02-1noCulling.JP
+    2300012: mesh3.002_mesh3-geometry_male-02-1noCullingID_male-02-1noCulling.JP
+    2300014: mesh4.002_mesh4-geometry__01_-_Default1noCulli__01_-_Default1noCulli
+    2300016: mesh5.002_mesh5-geometry__01_-_Default1noCulli__01_-_Default1noCulli
+    2300018: mesh6.002_mesh6-geometry__01_-_Default1noCulli__01_-_Default1noCulli
+    2300020: mesh7.002_mesh7-geometry__01_-_Default1noCulli__01_-_Default1noCulli
+    2300022: mesh8.002_mesh8-geometry__01_-_Default1noCulli__01_-_Default1noCulli
+    2300024: mesh9.002_mesh9-geometry_FrontColorNoCullingID_male-02-1noCulling.JP
+    2300026: mesh9.002_mesh9-geometry_male-02-1noCullingID_male-02-1noCulling.JP
+    3300000: mesh1.002_mesh1-geometry_FrontColorNoCullingID_orig_02_-_Defaul1noCu
+    3300002: mesh1.002_mesh1-geometry_male-02-1noCullingID_male-02-1noCulling.JP
+    3300004: mesh1.002_mesh1-geometry_orig_02_-_Defaul1noCu_orig_02_-_Defaul1noCu
+    3300006: mesh10.002_mesh10-geometry_FrontColorNoCullingID_male-02-1noCulling.JP
+    3300008: mesh10.002_mesh10-geometry_male-02-1noCullingID_male-02-1noCulling.JP
+    3300010: mesh2.002_mesh2-geometry_male-02-1noCullingID_male-02-1noCulling.JP
+    3300012: mesh3.002_mesh3-geometry_male-02-1noCullingID_male-02-1noCulling.JP
+    3300014: mesh4.002_mesh4-geometry__01_-_Default1noCulli__01_-_Default1noCulli
+    3300016: mesh5.002_mesh5-geometry__01_-_Default1noCulli__01_-_Default1noCulli
+    3300018: mesh6.002_mesh6-geometry__01_-_Default1noCulli__01_-_Default1noCulli
+    3300020: mesh7.002_mesh7-geometry__01_-_Default1noCulli__01_-_Default1noCulli
+    3300022: mesh8.002_mesh8-geometry__01_-_Default1noCulli__01_-_Default1noCulli
+    3300024: mesh9.002_mesh9-geometry_FrontColorNoCullingID_male-02-1noCulling.JP
+    3300026: mesh9.002_mesh9-geometry_male-02-1noCullingID_male-02-1noCulling.JP
+    4300000: mesh1.002_mesh1-geometry_FrontColorNoCullingID_orig_02_-_Defaul1noCu
+    4300002: mesh1.002_mesh1-geometry_male-02-1noCullingID_male-02-1noCulling.JP
+    4300004: mesh1.002_mesh1-geometry_orig_02_-_Defaul1noCu_orig_02_-_Defaul1noCu
+    4300006: mesh10.002_mesh10-geometry_FrontColorNoCullingID_male-02-1noCulling.JP
+    4300008: mesh10.002_mesh10-geometry_male-02-1noCullingID_male-02-1noCulling.JP
+    4300010: mesh2.002_mesh2-geometry_male-02-1noCullingID_male-02-1noCulling.JP
+    4300012: mesh3.002_mesh3-geometry_male-02-1noCullingID_male-02-1noCulling.JP
+    4300014: mesh4.002_mesh4-geometry__01_-_Default1noCulli__01_-_Default1noCulli
+    4300016: mesh5.002_mesh5-geometry__01_-_Default1noCulli__01_-_Default1noCulli
+    4300018: mesh6.002_mesh6-geometry__01_-_Default1noCulli__01_-_Default1noCulli
+    4300020: mesh7.002_mesh7-geometry__01_-_Default1noCulli__01_-_Default1noCulli
+    4300022: mesh8.002_mesh8-geometry__01_-_Default1noCulli__01_-_Default1noCulli
+    4300024: mesh9.002_mesh9-geometry_FrontColorNoCullingID_male-02-1noCulling.JP
+    4300026: mesh9.002_mesh9-geometry_male-02-1noCullingID_male-02-1noCulling.JP
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
