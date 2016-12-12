@@ -1,18 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Reflection;
 using UnityEngine;
 
 public class Target : MonoBehaviour
 {
-    public decimal Cost = 1.99M;
-
-    void Start()
-    {
-
-    }
-    
-    void Update()
-    {
-
-    }
+  public ItemType ItemType;
 }

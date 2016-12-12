@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class DuckTarget : MonoBehaviour
 {
-    public Vector3 MoveDirection = Vector3.right;
+    public Vector3 MoveDirection = Vector3.right * 0.8f;
     public float MoveSpeed = 2;
     private float _lifeTime = 0;
     private Vector3 _startPosition;
